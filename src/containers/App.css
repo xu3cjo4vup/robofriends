@@ -2,7 +2,8 @@
 
 h1 {
     font-family: 'Grandstander', cursive;
-    color: darkblue;
-    
-    
+    color: darkblue; 
+    margin: 0; 
+    padding: 0;
+ 
 }
